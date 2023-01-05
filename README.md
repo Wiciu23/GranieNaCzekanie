@@ -1,0 +1,2 @@
+# GranieNaCzekanie
+Discord bot
